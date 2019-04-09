@@ -1,5 +1,7 @@
 # Movie Trailer Website
 
+!(img)[https://s3.amazonaws.com/video.udacity-data.com/topher/2017/April/58f5a755_movie-trailer-website-image/movie-trailer-website-image.png]
+
 This project will build a Movie Trailer Website where users can see my favorite movies and watch the trailers. 
 The code stores a list of movie titles, poster images, and movie trailer URLs. 
 This information is displayed on a web page and allow users to review the movies and watch the trailers.
